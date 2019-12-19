@@ -45,6 +45,6 @@ Some children travelled only with a nanny, therefore parch=0 for them.
 ## Files:
 ### train.csv               :-  its is csv file of train data
 ### test.csv                :-  its is csv file of test data
-### gender_submission.csv   :-  its is csv file of sample submission of data
+### gender_submission.csv   :-  its is csv file prediction of data
 ### Titanic.ipynb           :-  its jupyter notebook
-### prediction.csv          :-  its csv file of prediction 
+
